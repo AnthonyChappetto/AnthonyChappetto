@@ -1,11 +1,11 @@
 # Hello, I'm Anthony!
 
-Current senior at Northern Illinois University with expected graduation May 2024!
-- Computer Science major with emphasis on Software Development
-- Minoring in finance
+Current Spring 2024 graduate from Northern Illinois University!
+- Computer Science major with emphasis on Enterprise Software
+- Minor in Finance and Esports 
 
-- 🌱 I’m currently learning front-end development (HTML, CSS, Javascript)
-- 🤔 I’m looking for help with getting an internship
+- 🌱 I’m currently learning Python for Data Analysis 
+- 🤔 I’m looking for help with getting an internship or full time position
 - 😄 Pronouns: He/Him
 
 🔭 Skills
